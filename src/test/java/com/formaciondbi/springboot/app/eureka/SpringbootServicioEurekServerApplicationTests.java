@@ -9,5 +9,8 @@ class SpringbootServicioEurekServerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void contextLoads2() {
+	}
 
 }
